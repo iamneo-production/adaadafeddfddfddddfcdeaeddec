@@ -30,4 +30,3 @@ public class StringMethod {
         return Character.toString(input.charAt(0));
     }
 }
-

@@ -41,4 +41,3 @@ public class StringAdvanceMethod {
 		return str.trim();
 	}
 }
-
